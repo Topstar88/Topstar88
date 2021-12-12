@@ -10,15 +10,15 @@
 
 Key skills include:
 
-Promoting and communicating new ideas&nbsp;
-Creating process improvements&nbsp;
-Instituting new technologies&nbsp;
-Writing maintainable clear/high-quality code&nbsp;
-Ensuring code is scalable and responsive&nbsp;
-Please consider following highlights
+Promoting and communicating new ideas<br>
+Creating process improvements<br>
+Instituting new technologies<br>
+Writing maintainable clear/high-quality code<br>
+Ensuring code is scalable and responsive<br>
+Please consider following highlights<br>
 
-🥇 Developed 50+ iOS applications using XCode, Swift, ObjectiveC, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.&nbsp;
-🥇 Developed 40+ android applications using Android Studio, Kotlin, Java.&nbsp;
+🥇 Developed 50+ iOS applications using XCode, Swift, ObjectiveC, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.<br>
+🥇 Developed 40+ android applications using Android Studio, Kotlin, Java.<br>
 🥇 Great skills in Payment gateway integration(apple/google pay, PayPal, stripe...), SNS login/sharing, Unit/UI Testing, PHP, Node.js, Nest, Express, Monghdb/PostgreSQL/MySQL, JS/TS, Angular, React/Redux/Redux Saga/React hook, Agile/Kanban/Scrum methodologies, SDLC, SOLID/UniDirectional Software Design, MVC/MVVM architecture, RestfulAPI, GraphQL, Jira/Atlassian, CI/CD.
 
 
