@@ -80,6 +80,6 @@ Please consider following highlights<br>
 <p align="center">
 <a href="https://topstar88.github.io/"><img src="https://img.shields.io/badge/-tony%20li-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/topstar88"><img src="https://img.shields.io/badge/-tonylii-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:topstar88@outlook.com"><img src="https://img.shields.io/badge/-topstar88@outlook.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="tel:575-404-1672"><img src="https://img.shields.io/badge/-%2B1(575)404-1672?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:topstar88@outlook.com"><img src="https://img.shields.io/badge/-topstar88@outlook.com-D14836?style=for-the-badge&logo=Outlook&logoColor=white"/></a>
+<a href="tel:575-404-1672"><img src="https://img.shields.io/badge/-%2B1(575)404-1672?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
