@@ -22,11 +22,6 @@ Please consider following highlights<br>
 🥇 Great skills in Payment gateway integration(apple/google pay, PayPal, stripe...), SNS login/sharing, Unit/UI Testing, PHP, Node.js, Nest, Express, Monghdb/PostgreSQL/MySQL, JS/TS, Angular, React/Redux/Redux Saga/React hook, Agile/Kanban/Scrum methodologies, SDLC, SOLID/UniDirectional Software Design, MVC/MVVM architecture, RestfulAPI, GraphQL, Jira/Atlassian, CI/CD.
 
 
-<p align="center">
-<a href="https://github.com/Topstar88">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Topstar88&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Topstar88&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
